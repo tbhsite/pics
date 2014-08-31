@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'ptreyes'));
+var config_ptreyes = new_cfg(baseConfig2, 'ptreyes');
 hs.addSlideshow(new_cfg(baseConfig, 'shuteye2'));
 var config_shuteye2 = new_cfg(baseConfig2, 'shuteye2');
 hs.addSlideshow(new_cfg(baseConfig, 'ggsemi'));
