@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'poemealoup'));
+var config_poemealoup = new_cfg(baseConfig2, 'poemealoup');
 hs.addSlideshow(new_cfg(baseConfig, 'ptreyes'));
 var config_ptreyes = new_cfg(baseConfig2, 'ptreyes');
 hs.addSlideshow(new_cfg(baseConfig, 'shuteye2'));
