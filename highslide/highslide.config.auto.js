@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'sailing'));
+var config_sailing = new_cfg(baseConfig2, 'sailing');
 hs.addSlideshow(new_cfg(baseConfig, 'poemealoup'));
 var config_poemealoup = new_cfg(baseConfig2, 'poemealoup');
 hs.addSlideshow(new_cfg(baseConfig, 'ptreyes'));
