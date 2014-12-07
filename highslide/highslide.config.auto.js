@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'redrock'));
+var config_redrock = new_cfg(baseConfig2, 'redrock');
 hs.addSlideshow(new_cfg(baseConfig, 'sailing'));
 var config_sailing = new_cfg(baseConfig2, 'sailing');
 hs.addSlideshow(new_cfg(baseConfig, 'poemealoup'));
