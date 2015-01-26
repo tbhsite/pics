@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'zermatt'));
+var config_zermatt = new_cfg(baseConfig2, 'zermatt');
 hs.addSlideshow(new_cfg(baseConfig, 'laclusaz'));
 var config_laclusaz = new_cfg(baseConfig2, 'laclusaz');
 hs.addSlideshow(new_cfg(baseConfig, 'redrock'));
