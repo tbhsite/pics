@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'owens'));
+var config_owens = new_cfg(baseConfig2, 'owens');
 hs.addSlideshow(new_cfg(baseConfig, 'zermatt'));
 var config_zermatt = new_cfg(baseConfig2, 'zermatt');
 hs.addSlideshow(new_cfg(baseConfig, 'laclusaz'));
