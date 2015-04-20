@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'ayala'));
+var config_ayala = new_cfg(baseConfig2, 'ayala');
 hs.addSlideshow(new_cfg(baseConfig, 'owens'));
 var config_owens = new_cfg(baseConfig2, 'owens');
 hs.addSlideshow(new_cfg(baseConfig, 'zermatt'));
