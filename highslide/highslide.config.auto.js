@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'seattle'));
+var config_seattle = new_cfg(baseConfig2, 'seattle');
 hs.addSlideshow(new_cfg(baseConfig, 'loversleap'));
 var config_loversleap = new_cfg(baseConfig2, 'loversleap');
 hs.addSlideshow(new_cfg(baseConfig, 'ayala'));
