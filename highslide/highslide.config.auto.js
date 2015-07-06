@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'loversleap'));
+var config_loversleap = new_cfg(baseConfig2, 'loversleap');
 hs.addSlideshow(new_cfg(baseConfig, 'ayala'));
 var config_ayala = new_cfg(baseConfig2, 'ayala');
 hs.addSlideshow(new_cfg(baseConfig, 'owens'));
