@@ -2,6 +2,8 @@ hs.addSlideshow(new_cfg(baseConfig, 'lassen'));
 var config_lassen = new_cfg(baseConfig2, 'lassen');
 hs.addSlideshow(new_cfg(baseConfig, 'sailing2'));
 var config_sailing2 = new_cfg(baseConfig2, 'sailing2');
+hs.addSlideshow(new_cfg(baseConfig, 'ozgram'));
+var config_ozgram = new_cfg(baseConfig2, 'ozgram');
 hs.addSlideshow(new_cfg(baseConfig, 'seattle'));
 var config_seattle = new_cfg(baseConfig2, 'seattle');
 hs.addSlideshow(new_cfg(baseConfig, 'loversleap'));
