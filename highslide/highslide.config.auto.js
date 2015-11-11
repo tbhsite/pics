@@ -1,3 +1,5 @@
+hs.addSlideshow(new_cfg(baseConfig, 'cloudrest'));
+var config_cloudrest = new_cfg(baseConfig2, 'cloudrest');
 hs.addSlideshow(new_cfg(baseConfig, 'lassen'));
 var config_lassen = new_cfg(baseConfig2, 'lassen');
 hs.addSlideshow(new_cfg(baseConfig, 'sailing2'));
